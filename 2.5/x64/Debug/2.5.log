@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+D:\vs编译器\2.5\FileName.cpp(38,15): warning C4804: “<”: 在操作中使用类型“bool”不安全
+D:\vs编译器\2.5\FileName.cpp(44,16): warning C4804: “<”: 在操作中使用类型“bool”不安全
+D:\vs编译器\2.5\FileName.cpp(50,15): warning C4804: “<”: 在操作中使用类型“bool”不安全
+D:\vs编译器\2.5\FileName.cpp(55,16): warning C4804: “<”: 在操作中使用类型“bool”不安全
+  2.5.vcxproj -> D:\vs编译器\2.5\x64\Debug\2.5.exe
